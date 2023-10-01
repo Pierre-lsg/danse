@@ -1,12 +1,16 @@
 ---
-title: "Cours de rock - les bases - traversée"
+title: Cours de rock - débutant - traversée
 description: ""
 date: 2023-10-01T11:47:21.573Z
 preview: ""
 draft: false
-tags: [Rock,bases,couple]
-categories: [Rock]
-slug: cours-de-rock-les-bases-1
+tags:
+  - Rock
+  - débutant
+  - couple
+categories:
+  - Rock
+slug: cours-de-rock-debutant-traversee
 weight: 999
 ---
 
