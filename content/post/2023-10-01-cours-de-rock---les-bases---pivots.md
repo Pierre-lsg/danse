@@ -4,8 +4,8 @@ description: ""
 date: 2023-10-01T13:35:16.272Z
 preview: ""
 draft: false
-tags: []
-categories: []
+tags: [Rock]
+categories: [Rock]
 weight: 999
 slug: cours-de-rock-les-bases-pivots
 ---

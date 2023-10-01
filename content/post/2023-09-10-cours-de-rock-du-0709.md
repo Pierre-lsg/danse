@@ -10,6 +10,7 @@ tags:
   - Intermédiaire
 categories:
   - Rock
+weight: 200
 ---
  
 ## Enchaînement 1

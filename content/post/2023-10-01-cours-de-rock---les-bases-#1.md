@@ -4,8 +4,8 @@ description: ""
 date: 2023-10-01T11:47:21.573Z
 preview: ""
 draft: false
-tags: [Rock]
-categories: [Rock,bases,couple]
+tags: [Rock,bases,couple]
+categories: [Rock]
 slug: cours-de-rock-les-bases-1
 weight: 999
 ---

@@ -1,0 +1,15 @@
+# ne conserver que le répertoire content 
+archetypes/
+assets/
+config/
+data/
+.frontmatter/
+i18n/
+layouts/
+public/
+static/
+themes/
+.vscode/
+
+/*.json
+/*.lock

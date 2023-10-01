@@ -9,6 +9,7 @@ tags:
 categories:
   - Rock
 slug: cours-de-rock-du-28-09
+weight: 197
 ---
 
 ## Introduction

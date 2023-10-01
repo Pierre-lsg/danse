@@ -12,6 +12,7 @@ tags:
 categories:
   - Rock
 slug: cours-de-rock-du-14-09
+weight: 199
 ---
 
 ## Nouveaux pas

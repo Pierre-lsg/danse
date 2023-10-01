@@ -6,10 +6,10 @@ preview: ""
 draft: false
 tags:
   - Rock
-categories:
-  - Rock
   - séparation
   - reprise
+categories:
+  - Rock
 weight: 999
 slug: cours-de-rock-les-bases-separation-reprise
 ---
