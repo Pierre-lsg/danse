@@ -12,7 +12,7 @@ tags:
 categories:
   - bachata
 slug: cours-de-bachata-debutant-avant-propos
-weight: 1
+weight: 300
 ---
 
 ## Quelques bases

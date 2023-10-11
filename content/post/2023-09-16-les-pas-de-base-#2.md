@@ -10,6 +10,7 @@ tags:
 categories:
   - bachata
 slug: les-pas-de-base-2
+weight: 296
 ---
 
 ## Le X

@@ -11,6 +11,7 @@ tags:
   - pas de base
 categories:
   - bachata
+weight: 298
 ---
 
 ### Pas de base

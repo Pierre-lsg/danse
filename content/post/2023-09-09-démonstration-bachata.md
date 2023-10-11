@@ -8,6 +8,7 @@ tags:
   - bachata
 categories:
   - bachata
+weight: 299
 ---
 
 {{< youtube j8TtFwjTMSQ >}}

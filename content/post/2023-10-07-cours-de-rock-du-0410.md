@@ -1,5 +1,5 @@
 ---
-title: Cours de rock du 04/10
+title: Cours de rock du 05/10
 description: ""
 date: 2023-10-07T13:48:39.291Z
 preview: ""
@@ -10,7 +10,7 @@ tags:
   - mario
 categories:
   - rock
-slug: cours-de-rock-du-04-10
+slug: cours-de-rock-du-05-10
 weight: 196
 ---
 

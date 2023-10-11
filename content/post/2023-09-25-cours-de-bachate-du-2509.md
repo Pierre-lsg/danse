@@ -10,6 +10,7 @@ tags:
 categories:
   - bachata
 slug: cours-de-bachate-du-25-09
+weight: 293
 ---
 
 ## Quelques détails de la danse en couple

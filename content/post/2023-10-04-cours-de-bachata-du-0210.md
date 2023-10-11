@@ -11,6 +11,7 @@ tags:
 categories:
   - bachata
 slug: cours-de-bachata-du-02-10
+weight: 292
 ---
 ## Avant propos
 

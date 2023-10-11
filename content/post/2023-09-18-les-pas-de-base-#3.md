@@ -11,6 +11,7 @@ tags:
 categories:
   - bachata
 slug: les-pas-de-base-3
+weight: 294
 ---
 
 ## Tour à gauche
