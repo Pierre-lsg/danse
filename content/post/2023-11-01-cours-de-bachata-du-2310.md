@@ -13,6 +13,12 @@ slug: cours-de-bachata-du-23-10
 weight: 289
 ---
 
+## Pas solo
+
+# Tour inverse
+
+Comme un tour standard mais à l'envers. Il me semble qu'on le voit sur la vidéo bachata warriors du 31/10. Je le décrirai plus tard. 
+
 ## Pas d'hésitation
 
 En position fermée, se pencher en avant et faire les pas d'hasitation.
@@ -40,7 +46,7 @@ Plutôt que de parlerc de cravate, il évoque un carré Hermès qui est plus él
 
 Là où le coiffage ne nécessite pas de torsion de main, la cravate veut que lors de la montée, les doigts du cavalier tournent dans la main de la partenaire pour pivoter, en principe à 180°. Autrement, à la montée on, reste dans la position *coiffure*. 
 
-## La vidéo
+## Les vidéos
 
 La vidéo de la soirée avec toutes les explications
 
