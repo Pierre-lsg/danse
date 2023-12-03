@@ -9,7 +9,7 @@ tags:
   - pivot
 categories:
   - bachata
-slug: cours-de-bachata-du-06-11
+slug: cours-de-bachata-du-13-11
 weight: 287
 ---
 
