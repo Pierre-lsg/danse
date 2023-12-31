@@ -13,28 +13,31 @@ slug: cours-de-rock-du-09-11
 weight: 192
 ---
 
-## Le ...
+2 semaines de vacances et on reprend.
 
 ## Les enchaînements proposés
 
 ### N° 1
 
-Partant d'une position fermée,  le Mario (ou grand Mario ?) est inclus ce soir dans l'enchaînement suivant : 
+Partant d'une position fermée :
 
-1. Séparation danseur lâchée. (Penser à la traversée lâchée)
-2. Todo.
+1. Séparation danseuse tour sous le bras
+2. Pivot danseur et changer de main dans le dos (droite/droite)
+3. Prise en taille. La danseuse tourne (1/2) et se retrouve épaule droite danseur contre épaule gauche
+4. Inverser la position. Faire passer la danseuse devant
+5. Demi tour extérieur. Rappelle la traversée alternée
+6. Passage sous le bras
+7. Pivot les 2. Engrenage
+8. Reprise tournée
 
 ### N° 2
 
-1. Séparation danseuse.
-2. Traversée
-3. Pivot danseur dans le 
-
-### N° 3
-
-1. Séparation danseur.
-2. Travesée alternée et récupération main droite.
-3. Enroulée
+1. Séparation danseur
+2. Traversée alternée et récupération main danseuse
+3. Enrouler partenaire
+4. Lâcher main gauche et tour complet à droite
+5. Séparation danseur
+6. Enroulé fini fermée
 
 ## Et la vidéo
 
