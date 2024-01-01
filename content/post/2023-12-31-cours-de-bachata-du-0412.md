@@ -13,16 +13,8 @@ slug: cours-de-bachata-du-04-12
 weight: 284
 ---
 
-## Pas solo
+Tous les pas vues dans la vidéo sont détaillés dans les leçons du mois de novembre. Je vous laisse donc avec ...
 
-### ...
-
-## Pas de couple
-
-### ...
-
-## La vidéo
-
-Une vidéo pour récumer toute l'activité
+## la vidéo
 
 {{< youtube ovj-Zkcp4W8 >}}
