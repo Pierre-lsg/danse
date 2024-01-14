@@ -53,15 +53,15 @@ C'est une longue séquence avec des enchaînements non connus mais allons-y
 ### L'enchaînement
 
 1. Pas de base
-2. Enroulé et *1/4* de tour à gauche puis passage de la cavalière devant soi
+2. Enroulé et **1/4** de tour à gauche puis passage de la cavalière devant soi
   - De 1 à 4 : tour cavalier avec récupération main droite 
   - De 5 à 8 : amener sa partenaire devant soi avec la main droite. La main gauche guide la rotation. La cavalière fait une rotation pour se placer de l'autre côté guidée par la main droite cavalier. Poser la main gauche pour arrêter la rotation sur le 8. Pour les pieds : recul (droit), recul (gauche), avance (droit) et stop (suspension).    
 3. Coiffage, ...
   - 1. le bras gauche passe sous le bras droit de la cavalière pour la coiffer
-  - 2. Glisser pour récupérer la main droite cavalière (avec sa main gauche) et en profiter pour tourner d'un *1/4* de tour
+  - 2. Glisser pour récupérer la main droite cavalière (avec sa main gauche) et en profiter pour tourner d'un **1/4** de tour
   - 3/4 décalage standard à gauche
   - 5 à 8 tour cavalière puis le cavalier se coiffe
-4. Tour inverse et tour cavalière en amplifiant les pas pour pivoter d'*1/2* de tour à l'arrivée. On est en position promenade en ayant pivoter. A tester hors de cet enchaînement ...
+4. Tour inverse et tour cavalière en amplifiant les pas pour pivoter d'**1/2** de tour à l'arrivée. On est en position promenade en ayant pivoter. A tester hors de cet enchaînement ...
 5. Traversée danseuse en la faisant touner par la  droite. Le cavalier fait les pas sur place. 
 - 3/4 Préparer un tour en entraînant la cavalière comme pour un tour classique
 - 5 blocage avec la main gauche et lâcher la connexion mains droite/droite
@@ -87,7 +87,7 @@ _Penser à faire des petites pas_
 
 Sinon, pour l'enchaînement :
 
-*Mesure 1*
+**Mesure 1**
 - de 1 à 4 : standard (avec tous les conseils précédents)
 - de 5 à 8 :
   * _côté, recule et croise_. On dirait une cucaracha croisée
@@ -95,7 +95,7 @@ Sinon, pour l'enchaînement :
   * 7 pivoter 1/4 de tour à gauche
   * 8 pivoter 1/2 tour à gauche
 
-*Mesure 2*
+**Mesure 2**
 - 1 : variation de hauteur. Fléchir au plus bas. Le genou droit pivote à droite. Le pied gauche ne part pas puisqu'il est déjà positionné à gauche
 - 2 : on se relève, le genou droit revient à gauche
 - 3/4, le pied gauche traverse et revient à sa place, le corps légèrement tourné à gauche
@@ -104,12 +104,18 @@ Sinon, pour l'enchaînement :
   * 6 le pied gauche rejoint le dos déroule
   * 7 et 8, on répète la séquence 
 
-*Mesure 3*
+**Mesure 3**
 - le carré décoré. (première fois que je le vois). C'est plutôt un demi-carré puisqu'on l'arrête à 4. Il est décoré par les variations de hauteur
 - 5/6 faire tour complet sur le pied gauche
 - 7 poser le pied droit derrière pour arrêter la rotation et se stabiliser
 - 8 pied gauche rejoint. On est prêt pour repartir
 
+**Mesure 4**
+Comment décrire ? 
+- 1/2 mouvement de bassin en soulevant les pieds
+- 3/4 pas chassé à gauche
+- 5/6 mouvement de bassin cden soulevant les pieds
+- 7/8 pas chassé à droite
 
 _Le carré :_
 L'idée est de tracer un carré en changeant de direction tous les deux temps. 
