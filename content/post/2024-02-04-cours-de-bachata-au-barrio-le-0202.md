@@ -6,6 +6,7 @@ preview: ""
 draft: false
 tags:
   - bachata
+  - barrio
   - serré
 categories:
   - bachata
@@ -19,7 +20,7 @@ Position semi-fermée
 
 **Pas de base**
 
-Avec un retour en position ouverte sur le 5 à 8. Le danseur part en diagonale droite. 
+Avec un retour en position ouverte sur le 5 à 8. Le danseur part en diagonale arrière gauche. 
 
 **Ouverture et demi-tour danseuse**
 
